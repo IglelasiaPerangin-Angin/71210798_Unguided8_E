@@ -1,0 +1,1 @@
+Gelas yang terisi lebih dahulu yaitu gelas nomor 2, karena pada saat air masuk ke gelas 4 otomatis air akan mengalir ke gelas nomor 2,disebabkan karena pipa aliran ke gelas 2 lebih rendah dari pada pipa aliran ke gelas 6.
